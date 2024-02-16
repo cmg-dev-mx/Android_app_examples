@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Interview</string>
+    <string name="todoList_item_state_completed">Completed</string>
+    <string name="todoList_item_state_pending">Pending</string>
+    <string name="todoDetail_title">Todo Detail</string>
+    <string name="todoDetail_description">Description: %1$s</string>
+    <string name="todoDetail_complete_swtich">Complete</string>
+</resources>
